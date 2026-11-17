@@ -34,7 +34,7 @@
   },
   "devDependencies": {
     "@types/glob": "^9.0.0",
-    "@types/node": "^22.0.0",
+    "@types/node": "^26.6.6",
     "@vercel/build-utils": "^13.2.9",
     "jest": "^30.2.0",
     "typescript": "^5.9.3"
