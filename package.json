@@ -30,12 +30,12 @@
   ],
   "dependencies": {
     "@libphp/almalinux-9-v85": ">=0.0.2",
-    "@vercel/build-utils": "^13.2.9"
+    "@vercel/build-utils": "^15.4.0"
   },
   "devDependencies": {
     "@types/glob": "^9.0.0",
     "@types/node": "^22.0.0",
-    "@vercel/build-utils": "^13.2.9",
+    "@vercel/build-utils": "^15.4.0",
     "jest": "^30.2.0",
     "typescript": "^5.9.3"
   }
