@@ -3,7 +3,7 @@
 /package-lock.json
 
 # App
-/dist
+# dist is committed (npm git installs do not build TypeScript)
 
 # Vercel
 .vercel
